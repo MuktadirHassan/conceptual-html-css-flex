@@ -10,4 +10,4 @@ You can download the figma file and upload it on figma.com to see the UI.
 
 ## UI:
 
-![alt text](https://raw.githubusercontent.com/MuktadirHassan/conceptual-html-css-flex/main/assets/desktop_view.png "Desktop View")
+![alt text](https://raw.githubusercontent.com/MuktadirHassan/conceptual-html-css-flex/main/assets/destop_view.png "Desktop View")
